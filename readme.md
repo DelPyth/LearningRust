@@ -27,7 +27,10 @@ More than likely. But until then, I'm reading from the 2018 version of The Rust 
 I installed `rustup` on 25/10/2022, visual studio tooling crap on 25/10/2022, I use Visual Studio Code for writing, and windows CMD for a terminal.
 
 # Projects and Dates
-| Project Name | Date (DD/MM/YYYY) | Description                                                                      |
-| :---         | :---              | :---                                                                             |
-| hello_world  | 25/10/2022        | Simply "Hello World" program.                                                    |
-| hello_cargo  | 25/10/2022        | Learn how to use `cargo` command for a new project as well for building/running. |
+| Project Name   | Date (DD/MM/YYYY) | Description                                                                      |
+| :---           | :---              | :---                                                                             |
+| hello_world    | 25/10/2022        | Simply "Hello World" program.                                                    |
+| hello_cargo    | 25/10/2022        | Learn how to use `cargo` command for a new project as well for building/running. |
+| guessing_game  | 25/10/2022        | Create a guessing game using stdin.                                              |
+| variables      | 25/10/2022        | Learn variables, tuples, and arrays.                                             |
+| functions      | 25/10/2022        | learn how to use functions.                                                      |
