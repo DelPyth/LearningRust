@@ -1,9 +1,8 @@
 fn main() {
     let number = 3;
 
-	if number < 5 {
-		println!("Condition was true");
-	} else {
-		println!("Condition was false");
+	// Must be boolean, will throw error.
+	if number {
+		println!("Number was three");
 	}
 }
