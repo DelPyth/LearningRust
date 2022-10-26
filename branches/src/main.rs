@@ -1,8 +1,7 @@
 fn main() {
     let number = 3;
 
-	// Must be boolean, will throw error.
-	if number {
-		println!("Number was three");
+	if number != 0 {
+		println!("Number was something other than zero");
 	}
 }
