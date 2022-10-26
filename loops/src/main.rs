@@ -1,7 +1,13 @@
 fn main() {
-	// For obvious reasons, I'm not running this.
-	// To stop this program, press Ctrl + C.
-	loop {
-		println!("again!");
-	}
+	let mut counter = 0;
+
+	let result = loop {
+		counter += 1;
+
+		if counter == 10 {
+			break counter * 2;
+		}
+	};
+
+	println!("The result is {}", result);
 }
