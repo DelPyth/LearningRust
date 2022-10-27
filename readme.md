@@ -33,4 +33,8 @@ I installed `rustup` on 25/10/2022, visual studio tooling crap on 25/10/2022, I 
 | hello_cargo    | 25/10/2022        | Learn how to use `cargo` command for a new project as well for building/running. |
 | guessing_game  | 25/10/2022        | Create a guessing game using stdin.                                              |
 | variables      | 25/10/2022        | Learn variables, tuples, and arrays.                                             |
-| functions      | 25/10/2022        | learn how to use functions.                                                      |
+| functions      | 25/10/2022        | Learn how to use functions.                                                      |
+| branches       | 26/10/2022        | Learn how to use `if` and `else if` for control flow.                            |
+| loops          | 26/10/2022        | Learn how to use loops to repeat code.                                           |
+| ownership      | 26/10/2022        | Learn how value ownership works *without references*.                            |
+| references     | 26/10/2022        | Learn how to use references.                                                     |
