@@ -1,0 +1,8 @@
+Show git commit list. Useful for needing to know sequences of commit names.
+	git log --pretty=format:"%h %s" --graph
+
+After creating a project and opening to the folder with `cd`, copy `.gitignore` into new project to use without having to drag and drop.
+	copy ..\.dev\.gitignore .\.gitignore
+
+Last page I left off. If you're coming from a PDF, add 33 (give or take) to your current page number.
+	71
