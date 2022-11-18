@@ -23,8 +23,15 @@ I wanna learn Rust to get it on my personal record of languages that I know and 
 More than likely. But until then, I'm reading from the 2018 version of The Rust Programming Language book, so if you own that or know where to find a copy, feel free to follow along.
 </details>
 
+<details>
+	<summary>Why did you quit the project?</summary>
+
+Got bored, was getting tedious. I'm pretty much better off just reading the damn thing and if I don't understand a concept I'll just play around with it in a seperate project folder.
+</details>
+
 # Notes
-I installed `rustup` on 25/10/2022, visual studio tooling crap on 25/10/2022, I use Visual Studio Code for writing, and windows CMD for a terminal.
+- I installed `rustup` on 25/10/2022, visual studio tooling crap on 25/10/2022, I use Visual Studio Code for writing, and windows CMD for a terminal.
+- I tool the liberty in showing my "dev" folder. Basically showing certain notes and useful info as well as the `.gitignore` I used between micro-repos.
 
 # Projects and Dates
 | Project Name   | Date (DD/MM/YYYY) | Description                                                                      |
